@@ -5,7 +5,7 @@ I, along with my friend, have made a pathfinding visualizer that uses Dijkstra's
 We have also implemented functions that allow the user to add paths with different levels of traffic (less, moderate, and high traffic indicated by colors blue, orange, and red respectively) and also add barriers (indicated by colour black), simulating a real-life transport scenario.
 
 ## How to use it:
-- Choose the start and destination square first by left-clicking the mouse at the start and end points.
+- First choose the start and destination square first by left-clicking the mouse twice. Then,
 - To add traffic:
   - Less Traffic: Press **1** and drag with the cursor by left-clicking on the grid.
   - Moderate Traffic: Press **2** and drag with the cursor by left-clicking on the grid.
