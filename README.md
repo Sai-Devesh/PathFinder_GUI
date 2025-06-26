@@ -17,10 +17,6 @@ We have also implemented functions that allow the user to add paths with differe
 ## Demonstration
 
 Here's a cool demonstration that explains the project:
-
-<p align="center">
-  <img src="Question_Pic.png" alt="Before" width="400"/>
-  <img src="Path_Pic.png" alt="After" width="400"/>
-</p>
+![Demo GIF](animation.gif)
 
 The video has also been attached. Kindly download and view it for futher clarification.
