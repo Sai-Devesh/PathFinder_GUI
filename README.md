@@ -4,6 +4,11 @@ I, along with my friend, have made a pathfinding visualizer that uses Dijkstra's
 
 We have also implemented functions that allow the user to add paths with different levels of traffic (less, moderate, and high traffic indicated by colors blue, orange, and red respectively) and also add barriers (indicated by colour black), simulating a real-life transport scenario.
 
+## How to Run
+To launch the visualizer, navigate to the project directory and run the following command in your terminal:
+```bash
+python3 PathFinder.py
+```
 ## How to use it:
 - First choose the start and destination square first by left-clicking the mouse twice. Then,
 - To add traffic:
