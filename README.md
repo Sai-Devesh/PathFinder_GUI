@@ -17,6 +17,6 @@ We have also implemented functions that allow the user to add paths with differe
 ## Demonstration
 
 Here's a cool demonstration that explains the project:
-![Demo GIF](animation.gif)
+![Demo GIF](Animation.gif)
 
 The video has also been attached. Kindly download and view it for futher clarification.
